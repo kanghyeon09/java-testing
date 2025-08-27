@@ -1,0 +1,13 @@
+package class1;
+
+public class Class1 {
+
+	public static void main(String[] args) {
+		System.out.println("Hello, Java");
+		
+		System.out,println("줄 바꿈 없이 출력");
+		
+		System.out.println(" 이어서 출력");
+	}
+
+}

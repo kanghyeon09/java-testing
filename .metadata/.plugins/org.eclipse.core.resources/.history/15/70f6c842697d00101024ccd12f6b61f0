@@ -1,0 +1,20 @@
+package sex03.exam01;
+
+public class IntegerLiteralExample {
+
+	public static void main(String[] args) {
+		
+	
+		int var1 = 0b1011;
+		int var2 = 0206;
+		int var3 = 365;
+		int var4 = 0xb3;
+		
+		Sysyem.out.println("var1" + var1);
+		Sysyem.out.println("var2" + var2);
+		Sysyem.out.println("var3" + var3);
+		Sysyem.out.println("var4" + var4);
+
+	}
+
+}

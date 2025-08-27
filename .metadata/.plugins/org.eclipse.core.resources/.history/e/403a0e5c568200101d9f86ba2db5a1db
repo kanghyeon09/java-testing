@@ -1,0 +1,17 @@
+package class4;
+
+public class Class4 {
+
+	public static void main(String[] args) {
+		
+	String name = "김강현";
+	
+	int age = 17;
+	
+	
+	System.out.println("이름 :" + name);
+	System.out.println("나이 :" + age);
+	
+	} 
+
+}
