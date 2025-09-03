@@ -4,13 +4,25 @@ public class PromotionalExample {
 
 	public static void main(String[] args) {
 		
-		byte = bytevalue = 10;
-		int = intvalue = bytevalue;
-		System.out.println("intvalue: " + intvalue);
+		byte byteValue = 10;
+		int intValue = byteValue;
+		System.out.println("intValue: " + intValue);
 		
-		char charvalue = '가';
-		intvalue = charvalue
-
+		char charValue = '가';
+		intValue = charValue;
+		System.out.println("가의 유니코드: " + intValue);
+		
+		intValue = 50;
+		long longValue = intValue;;
+		System.out.println("longValue: " + longValue);
+		
+		longValue = 100;
+		float floatValue = longValue;
+		System.out.println("floatValue: " + floatValue);
+		
+		floatValue = 100.5F;
+		double doubleValue = floatValue;
+		System.out.println("doubleValue: " + doubleValue);
 	}
 
 }
