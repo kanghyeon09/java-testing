@@ -11,7 +11,7 @@ public class BankAccountExample {
 		System.out.println(currentBalance);
 		System.out.println(b.getBalance());
 		
-		int finalAccount = b.withdrawal(5000);
+		int finalAccount = b.withdrawal(5000);	
 		System.out.println(finalAccount);
 		
 		finalAccount = b.withdrawal(7000);

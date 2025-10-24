@@ -1,7 +1,6 @@
 INDEX VERSION 1.134+/Users/kirkalnd090119/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
 1096121894.index
 1865797976.index
-2544778970.index
 2854415619.index
 1793922395.index
 3034946334.index
