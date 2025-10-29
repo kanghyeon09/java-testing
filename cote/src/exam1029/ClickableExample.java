@@ -1,0 +1,19 @@
+package exam1029;
+
+public class ClickableExample {
+
+	public static void main(String[] args) {
+		Clickable c1 = new Image("a.jpg");
+		Clickable c2 = new Button("Ok");
+		
+		c1.click();
+		c2.click();
+		
+		Drawable d1 = (Image) c1;
+		Drawable d2 = (Button) c1;
+		
+		d1.draw();
+		d2.draw();
+	}
+
+}
