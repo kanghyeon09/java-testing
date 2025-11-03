@@ -13,7 +13,11 @@ abstract class Vehicle{
 }
 
 class Car extends Vehicle{
+	Car(String name){
+		super(name);
+	}
 	
+	@Override
 	void move() {
 		System.out.println("자동차가 달려갑니다.");
 	}
