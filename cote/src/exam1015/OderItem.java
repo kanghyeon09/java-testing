@@ -7,9 +7,10 @@ public class OderItem {
 	
 	public OderItem(Menu menu, int qauntify) {
 		this.menu = menu;
-		this.quantify = quantify;
+		this.quantify = qauntify;
 	}
 	
+
 	public int getPrice() {
 		return menu.price = quantify;
 	}
