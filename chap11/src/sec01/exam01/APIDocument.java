@@ -3,7 +3,8 @@ package sec01.exam01;
 public class APIDocument {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		String str = "김자바";
 
 	}
 
